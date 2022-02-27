@@ -1,0 +1,29 @@
+[{
+        "category": "Стулья",
+        "name": "Стул кухонный",
+        "image": "images/chair-1.png",
+        "description": "супер стул",
+        "price": 2584.75
+    },
+    {
+        "category": "Стулья",
+        "name": "Стул офисный",
+        "image": "images/chair-2.jpg",
+        "description": "фантастический стул",
+        "price": 25488
+    },
+    {
+        "category": "Лампы",
+        "name": "Бра",
+        "image": "images/product-41.jpg",
+        "description": "яркая",
+        "price": 1258.40
+    },
+    {
+        "category": "Лампы",
+        "name": "Лампа настольная",
+        "image": "images/product-61.jpg",
+        "description": "красивая",
+        "price": 2400
+    }
+]
